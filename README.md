@@ -1,4 +1,3 @@
-# Jeisson Fuquene
 ### Infrastructure Lead | Cloud & DevOps Engineer
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
