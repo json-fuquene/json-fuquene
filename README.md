@@ -43,9 +43,11 @@ Enfoque en alta disponibilidad, resiliencia operativa y mejora continua bajo pr�
 
 ## 📊 Enfoque Técnico
 
+```mermaid
 graph LR
 A[Developer] --> B[CI Pipeline]
 B --> C[Docker Build]
 C --> D[Registry]
 D --> E[Kubernetes Cluster]
 E --> F[Monitoring & Alerts]
+```
