@@ -1,6 +1,6 @@
 # Jeisson Fuquene
 ### Líder de Infraestructura | Cloud & DevOps Engineer
-```markdown
+
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4)
@@ -43,7 +43,6 @@ Enfoque en alta disponibilidad, resiliencia operativa y mejora continua bajo pr�
 
 ## 📊 Enfoque Técnico
 
-```mermaid
 graph LR
 A[Developer] --> B[CI Pipeline]
 B --> C[Docker Build]
