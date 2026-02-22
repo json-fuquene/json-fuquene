@@ -3,6 +3,8 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4)
+![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900)
 
 Infrastructure Engineer with experience in hybrid environments (on-premise and cloud), specialized in Kubernetes, automation with Terraform, and CI/CD pipeline implementation.  
 Focused on high availability, operational resilience, and continuous improvement under DevOps and DevSecOps practices.
