@@ -1,47 +1,47 @@
 # Jeisson Fuquene
-### Líder de Infraestructura | Cloud & DevOps Engineer
+### Infrastructure Lead | Cloud & DevOps Engineer
 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4)
 ![Kubernetes](https://img.shields.io/badge/Container-Kubernetes-326CE5)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4)
 
-Ingeniero de Infraestructura con experiencia en entornos híbridos (on-premise y cloud), especializado en Kubernetes, automatización con Terraform e implementación de pipelines CI/CD.  
-Enfoque en alta disponibilidad, resiliencia operativa y mejora continua bajo prácticas DevOps y DevSecOps.
+Infrastructure Engineer with experience in hybrid environments (on-premise and cloud), specialized in Kubernetes, automation with Terraform, and CI/CD pipeline implementation.  
+Focused on high availability, operational resilience, and continuous improvement under DevOps and DevSecOps practices.
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Professional Profile
 
-- +3 años en infraestructura y operaciones en sector financiero.
-- Diseño e implementación de arquitecturas cloud-native.
-- Automatización de despliegues reduciendo tiempos hasta en 80%.
-- Disponibilidad de servicios críticos > 99.9%.
-- Implementación de monitoreo y reducción de MTTR en 30%.
+- +3 years in infrastructure and operations in the financial sector.
+- Design and implementation of cloud-native architectures.
+- Deployment automation reducing lead times by up to 80%.
+- Critical service availability > 99.9%.
+- Monitoring implementation and MTTR reduction by 30%.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Cloud:** Azure | GCP | AWS  
-**Orquestación:** Kubernetes | Docker | Helm  
-**Infraestructura como Código:** Terraform  
+**Orchestration:** Kubernetes | Docker | Helm  
+**Infrastructure as Code:** Terraform  
 **CI/CD:** Azure DevOps | Jenkins | GitHub Actions  
-**Observabilidad:** Prometheus | Grafana | Zabbix  
-**Sistemas:** Linux | Windows Server  
-**Seguridad:** DevSecOps | Hardening | Gestión de accesos  
+**Observability:** Prometheus | Grafana | Zabbix  
+**Systems:** Linux | Windows Server  
+**Security:** DevSecOps | Hardening | Access Management  
 
 ---
 
-## 📦 Proyectos Destacados
+## 📦 Featured Projects
 
-🔹 Infraestructura como Código con Terraform  
-🔹 Arquitectura Kubernetes Production-Ready  
-🔹 Pipeline CI/CD automatizado para microservicios  
-🔹 Stack de Monitoreo y Observabilidad  
+🔹 Infrastructure as Code with Terraform  
+🔹 Production-Ready Kubernetes Architecture  
+🔹 Automated CI/CD Pipeline for Microservices  
+🔹 Monitoring & Observability Stack  
 
 ---
 
-## 📊 Enfoque Técnico
+## 📊 Technical Approach
 
 ```mermaid
 graph LR
